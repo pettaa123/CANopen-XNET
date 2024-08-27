@@ -25,5 +25,4 @@
 	</Item>
 	<Item Name="CANopen.lvclass" Type="LVClass" URL="../CANopen/CANopen.lvclass"/>
 	<Item Name="DSP402.lvclass" Type="LVClass" URL="../DSP402/DSP402.lvclass"/>
-	<Item Name="testCANopen.vi" Type="VI" URL="../testCANopen.vi"/>
 </Library>
