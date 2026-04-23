@@ -1,0 +1,33 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Electronic Datasheet.lvlib:Electronic Datasheet.lvclass:Import.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="970"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Test Profile Verification.lvclass:Test 401 Generic IO.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+          <Signal index="613" enabled="1"/>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="613"/>
+          <SignalUID value="671"/>
+        </Generic>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>
