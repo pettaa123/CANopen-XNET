@@ -1,0 +1,182 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="CANopen Master.lvlib:Expedited Upload Transfer.lvclass:Send.vi:2280001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1847"/>
+          <SignalUID value="1734"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="CANopen Master.lvlib:Expedited Upload Transfer.lvclass:Try Match Response.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="3826"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="CANopen Master.lvlib:Expedited Upload Transfer.lvclass:Try Match Response.vi:5820001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="CANopen Master.lvlib:SDO Manager.lvclass:Download.vi:2790001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2351"/>
+          <SignalUID value="1019"/>
+          <SignalUID value="2133"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Communicator.lvclass:Close.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="846"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Communicator.lvclass:Close.vi:5420001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="846"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Communicator.lvclass:Start.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="85"/>
+          <SignalUID value="1385"/>
+          <SignalUID value="1595"/>
+          <SignalUID value="382"/>
+          <SignalUID value="1121"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Communicator.lvclass:Stop.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="603"/>
+          <SignalUID value="1176"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Custom User Scripting For New Simple Accessor VI.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+          <Signal index="428" enabled="1"/>
+          <Signal index="439" enabled="1"/>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="PCAN Basic4 Read-Write CAN CC Frame Strategy.lvclass:Receive Messages Blocking.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="658"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="PCAN Basic4 Read-Write CAN CC Frame Strategy.lvclass:Receive Messages Immediate.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1637"/>
+          <SignalUID value="3152"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="PCAN Basic4 Read-Write CAN CC Frame Strategy.lvclass:Send Message Immediate.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2561"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Untitled 3">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+        </Generic>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>

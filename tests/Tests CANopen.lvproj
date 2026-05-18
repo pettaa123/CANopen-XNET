@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="20008000">
-	<Property Name="NI.LV.All.SaveVersion" Type="Str">20.0</Property>
+<Project Type="Project" LVVersion="24008000">
+	<Property Name="NI.LV.All.SaveVersion" Type="Str">Editor version</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -13,7 +13,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Test Object Entry.lvclass" Type="LVClass" URL="../Tests Object Dictionary/Test Object Entry.lvclass"/>
+		<Item Name="Test CANopen Message.lvclass" Type="LVClass" URL="../Test CANopen Message/Test CANopen Message.lvclass"/>
+		<Item Name="Test Object Dictionary.lvclass" Type="LVClass" URL="../Tests Object Dictionary/Test Object Dictionary.lvclass"/>
+		<Item Name="Test Object Entry.lvclass" Type="LVClass" URL="../Tests Object Entry/Test Object Entry.lvclass"/>
+		<Item Name="Test PDO Mapping.lvclass" Type="LVClass" URL="../Tests PDO Mapping/Test PDO Mapping.lvclass"/>
 		<Item Name="Test Profile Verification.lvclass" Type="LVClass" URL="../Test Profile Verification/Test Profile Verification.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>

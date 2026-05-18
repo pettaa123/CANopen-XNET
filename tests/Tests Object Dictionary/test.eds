@@ -1,0 +1,65 @@
+[OptionalObjects]
+SupportedObjects=0x02
+1=0x6503
+2=0x6505
+
+[6503]
+ParameterName=Drive catalogue number
+ObjectType=0x7
+DataType=0x0009
+AccessType=const
+DefaultValue=
+PDOMapping=0
+ObjFlags=1
+
+[6505]
+ParameterName=http drive catalogue address
+ObjectType=0x7
+DataType=0x0009
+AccessType=const
+DefaultValue=
+PDOMapping=0
+ObjFlags=1
+
+[ManufacturerObjects]
+SupportedObjects=0x03
+1=0x2005
+2=0x2007
+3=0x2009
+
+[2005]
+ParameterName=CANopen Baudrate
+ObjectType=0x7
+DataType=0x0005
+AccessType=rw
+DefaultValue=136
+PDOMapping=0
+
+[2007]
+ParameterName=CANopen Config
+ObjectType=0x8
+SubNumber=0x02
+
+[2007sub0]
+ParameterName=Number of entries
+ObjectType=0x7
+DataType=0x0005
+AccessType=const
+DefaultValue=0x01
+PDOMapping=0
+
+[2007sub1]
+ParameterName=BL Config
+ObjectType=0x7
+DataType=0x0007
+AccessType=rw
+DefaultValue=0x00000000
+PDOMapping=0
+
+[2009]
+ParameterName=CANopen NodeID
+ObjectType=0x7
+DataType=0x0005
+AccessType=rw
+DefaultValue=0x7F
+PDOMapping=0

@@ -1,6 +1,74 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="CANopen.lvlib:Get PDO Mappables.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1676"/>
+          <SignalUID value="1182"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="CANopen.lvlib:Object Dictionary.lvclass:Get Manufacturer Specific Objects.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="280"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="CANopen.lvlib:PDO Mapping.lvlib:Get All RPDO Communication Parameters.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1558"/>
+          <SignalUID value="3251"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="CANopen.lvlib:RPDO Communication Parameter.lvclass:Init.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1279"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Electronic Datasheet.lvlib:Electronic Datasheet.lvclass:Build.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2362"/>
+          <SignalUID value="2419"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Electronic Datasheet.lvlib:Electronic Datasheet.lvclass:Import.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -14,18 +82,42 @@
         </Generic>
       </Probes>
     </VI>
-    <VI name="Test Profile Verification.lvclass:Test 401 Generic IO.vi">
+    <VI name="Test PDO Mapping.lvclass:test Get All RPDO Communication Parameter.vi">
       <Breakpoints>
         <NodeIndexes>
         </NodeIndexes>
         <SignalIndexes>
-          <Signal index="613" enabled="1"/>
         </SignalIndexes>
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="613"/>
-          <SignalUID value="671"/>
+          <SignalUID value="749"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Test PDO Mapping.lvclass:test Get All TPDO Communication Parameter.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1073"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Test PDO Mapping.lvclass:test Get RX Mappables2.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="749"/>
         </Generic>
       </Probes>
     </VI>

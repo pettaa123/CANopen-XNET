@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="24008000">
+<Project Type="Project" LVVersion="20008000">
 	<Property Name="CCSymbols" Type="Str">AF_Debug_Trace,TRUE;</Property>
-	<Property Name="NI.LV.All.SaveVersion" Type="Str">24.0</Property>
+	<Property Name="NI.LV.All.SaveVersion" Type="Str">20.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="TopVI" Type="Xml">..\Example\Launcher.vi</Property>
@@ -22,9 +22,9 @@
 			<Item Name="Network Management UI.lvlib" Type="Library" URL="../Example/Network Management UI/Network Management UI.lvlib"/>
 			<Item Name="Object Dictionary UI.lvlib" Type="Library" URL="../Example/Object Dictionary UI/Object Dictionary UI.lvlib"/>
 		</Item>
-		<Item Name="CANopen Master.lvlib" Type="Library" URL="../CANopen Master.lvlib"/>
+		<Item Name="CANopen Master.lvlib" Type="Library" URL="../source/CANopen Master.lvlib"/>
+		<Item Name="CANopen.lvlib" Type="Library" URL="../source/CANopen.lvlib"/>
 		<Item Name="Electronic Datasheet.lvlib" Type="Library" URL="../../EDS-File-Viewer/source/Core/Electronic Datasheet.lvlib"/>
-		<Item Name="Table1.vi" Type="VI" URL="/C/Users/tupp_js/Documents/LabVIEW Data/Table1.vi"/>
 		<Item Name="Untitled4.vi" Type="VI" URL="../CANopen/Untitled4.vi"/>
 		<Item Name="Untitled5.vi" Type="VI" URL="../CANopen/Untitled5.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
