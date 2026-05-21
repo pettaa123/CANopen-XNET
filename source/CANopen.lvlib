@@ -29,6 +29,11 @@
 		<Item Name="RPDO Mapping.lvclass" Type="LVClass" URL="../RX PDO Mapping/RPDO Mapping.lvclass"/>
 		<Item Name="TPDO Mapping.lvclass" Type="LVClass" URL="../TX PDO Mapping/TPDO Mapping.lvclass"/>
 	</Item>
+	<Item Name="SDO Manager" Type="Folder">
+		<Item Name="Response Matcher.lvclass" Type="LVClass" URL="../SDO/SDO Manager/Response Matcher/Response Matcher.lvclass"/>
+		<Item Name="SDO Manager.lvlib" Type="Library" URL="../SDO/SDO Manager/SDO Manager.lvlib"/>
+		<Item Name="Transfer Beginner.lvlib" Type="Library" URL="../SDO/Transfer Beginner/Transfer Beginner.lvlib"/>
+	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Access PDO.ctl" Type="VI" URL="../Typedefs/Access PDO.ctl"/>
 		<Item Name="Access SDO.ctl" Type="VI" URL="../Typedefs/Access SDO.ctl"/>
@@ -42,7 +47,6 @@
 		<Item Name="Object Type.ctl" Type="VI" URL="../Typedefs/Object Type.ctl"/>
 		<Item Name="OD Entry Spec.ctl" Type="VI" URL="../Typedefs/OD Entry Spec.ctl"/>
 		<Item Name="PDO Mapping Type.ctl" Type="VI" URL="../Typedefs/PDO Mapping Type.ctl"/>
-		<Item Name="SDO Result.ctl" Type="VI" URL="../Typedefs/SDO Result.ctl"/>
 		<Item Name="Validation Message.ctl" Type="VI" URL="../Typedefs/Validation Message.ctl"/>
 		<Item Name="Validation Severity.ctl" Type="VI" URL="../Typedefs/Validation Severity.ctl"/>
 	</Item>

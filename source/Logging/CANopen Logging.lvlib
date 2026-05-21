@@ -9,5 +9,4 @@
 </Property>
 	<Item Name="Log Level.vi" Type="VI" URL="../Log Level.vi"/>
 	<Item Name="Logger.lvclass" Type="LVClass" URL="../Logger/Logger.lvclass"/>
-	<Item Name="Trace Type.ctl" Type="VI" URL="../Trace Type.ctl"/>
 </Library>
