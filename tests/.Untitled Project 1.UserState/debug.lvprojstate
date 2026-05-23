@@ -28,18 +28,6 @@
         </Generic>
       </Probes>
     </VI>
-    <VI name="CANopen Master.lvlib:Expedited Upload Transfer.lvclass:Try Match Response.vi:5820001">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-        </Generic>
-      </Probes>
-    </VI>
     <VI name="CANopen Master.lvlib:SDO Manager.lvclass:Download.vi:2790001">
       <Breakpoints>
         <NodeIndexes>
@@ -163,18 +151,6 @@
       <Probes>
         <Generic>
           <SignalUID value="2561"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Untitled 3">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
         </Generic>
       </Probes>
     </VI>

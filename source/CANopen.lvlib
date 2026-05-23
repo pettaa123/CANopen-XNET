@@ -30,9 +30,7 @@
 		<Item Name="TPDO Mapping.lvclass" Type="LVClass" URL="../TX PDO Mapping/TPDO Mapping.lvclass"/>
 	</Item>
 	<Item Name="SDO Manager" Type="Folder">
-		<Item Name="Response Matcher.lvclass" Type="LVClass" URL="../SDO/SDO Manager/Response Matcher/Response Matcher.lvclass"/>
 		<Item Name="SDO Manager.lvlib" Type="Library" URL="../SDO/SDO Manager/SDO Manager.lvlib"/>
-		<Item Name="Transfer Beginner.lvlib" Type="Library" URL="../SDO/Transfer Beginner/Transfer Beginner.lvlib"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Access PDO.ctl" Type="VI" URL="../Typedefs/Access PDO.ctl"/>

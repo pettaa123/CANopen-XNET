@@ -14,12 +14,14 @@
 		<Item Name="Block" Type="Folder">
 			<Item Name="Block Upload End Transfer.lvclass" Type="LVClass" URL="../Block Upload End Transfer/Block Upload End Transfer.lvclass"/>
 			<Item Name="Block Upload Initiate Transfer.lvclass" Type="LVClass" URL="../Block Upload Initiate Transfer/Block Upload Initiate Transfer.lvclass"/>
-			<Item Name="Block Upload Sub-Block Transfer.lvclass" Type="LVClass" URL="../Block Upload Transfer/Block Upload Sub-Block Transfer.lvclass"/>
+			<Item Name="Block Upload Sub-Block Transfer.lvclass" Type="LVClass" URL="../Block Upload Sub-Block Transfer/Block Upload Sub-Block Transfer.lvclass"/>
 		</Item>
 		<Item Name="Expedited Download Transfer.lvclass" Type="LVClass" URL="../Expedited Download Transfer/Expedited Download Transfer.lvclass"/>
 		<Item Name="SDO Transfer.lvclass" Type="LVClass" URL="../SDO Transfer/SDO Transfer.lvclass"/>
 		<Item Name="Segmented Upload Transfer.lvclass" Type="LVClass" URL="../Segmented Upload Transfer/Segmented Upload Transfer.lvclass"/>
 		<Item Name="Upload Transfer.lvclass" Type="LVClass" URL="../Upload Transfer/Upload Transfer.lvclass"/>
 	</Item>
+	<Item Name="Response Matcher.lvclass" Type="LVClass" URL="../Response Matcher/Response Matcher.lvclass"/>
 	<Item Name="SDO Manager.lvclass" Type="LVClass" URL="../SDO Manager/SDO Manager.lvclass"/>
+	<Item Name="Transfer Beginner.lvlib" Type="Library" URL="../../Transfer Beginner/Transfer Beginner.lvlib"/>
 </Library>
