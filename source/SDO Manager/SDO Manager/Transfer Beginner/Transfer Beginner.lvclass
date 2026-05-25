@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="20008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">CANopen.lvlib:SDO Manager.lvlib:Transfer Beginner.lvlib</Property>
-	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../../SDO/Transfer Beginner/Transfer Beginner.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Transfer Beginner.lvlib</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)[!!!*Q(C=\&gt;3R43N"%-&lt;R\S'#&amp;VG[$J!T%J*JQ1%7UJ-)(.$!"$4AF.!JY&lt;4A&amp;NT#C![O"&lt;&gt;Q\\`,'#QB!2))%8D0;XT@\?\]W$O&gt;V.N@[6ST$^IU4&lt;X0[F/HT^&amp;20GNB_^60+TJ]49=22`X.`.FB^NPZLS=VY_DMA[:4/\64?[]^4/_UHS(]E6KN;5J[U*VO;O7H*%`S*%`S*%`S)!`S)!`S)!^S*X&gt;S*X&gt;S*X&gt;S)T&gt;S)T&gt;S)T@S@J#,8/1CBZ154QIFCS9,*)/B+0F+0)EH]31?4J6Y%E`C34S*BS&amp;+0)EH]33?R--U*:\%EXA34_*BK3\*@J$D34QML]!4?!*0Y!E]F&amp;4A#1""M7$B9"%9#CY'0Q*0Y!E]`&amp;4A#4S"*`!%(CYL]!3?Q".Y!A^4_KZ%V\3$(!`,S0%Y(M@D?"Q03]PR/"\(YXA=$_8E?"S0AX!+/IN$E$0*'?#=/"\(QR]Z(M@D?"S0Y_&amp;3PU0?&gt;[:JWE'/R`!9(M.D?!Q03]DQ'"\$9XA-$]P+]"A?QW.Y$!_F:(A-D_%R)%:2SMN9T*BI$$)#Q]/H0SX7\V*UC@6$KI&gt;8^6#K(D&lt;61[2[/&amp;1X885T64&gt;*N@GK466NFGI460_=#KX#K)KI*L?"WP-^UH@U,8V$8^.8^!6^4B`;V']?O.`P.9[D&gt;LO&gt;NNON.JO.VOOV6KO6&amp;IO&amp;ZP/ZBG&amp;Y?1V==,S]%041#SX(J_8^=0HP,J[7V\?8SZP(K[_`&lt;T\&gt;@M'\57=[LM5?`1&gt;![`?I!!!!!!</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">Transfer Beginner</Property>

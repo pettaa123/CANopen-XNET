@@ -16,6 +16,9 @@
 		<Item Name="9615 String to SGL Overflow--error.vi" Type="VI" URL="../Utilities/9615 String to SGL Overflow--error.vi"/>
 		<Item Name="9616 Invalid String to Bool Conversion--error.vi" Type="VI" URL="../Utilities/9616 Invalid String to Bool Conversion--error.vi"/>
 	</Item>
+	<Item Name="Network Management" Type="Folder">
+		<Item Name="Network Management.lvlib" Type="Library" URL="../Network Management/Network Management.lvlib"/>
+	</Item>
 	<Item Name="PDO Communication Parameter" Type="Folder">
 		<Item Name="PDO Communication Parameter.lvclass" Type="LVClass" URL="../PDO Communication Parameter/PDO Communication Parameter.lvclass"/>
 		<Item Name="RPDO Communication Parameter.lvclass" Type="LVClass" URL="../RPDO Communication Parameter/RPDO Communication Parameter.lvclass"/>
@@ -28,6 +31,10 @@
 		<Item Name="PDO Mapping.lvclass" Type="LVClass" URL="../PDO Mapping/PDO Mapping.lvclass"/>
 		<Item Name="RPDO Mapping.lvclass" Type="LVClass" URL="../RX PDO Mapping/RPDO Mapping.lvclass"/>
 		<Item Name="TPDO Mapping.lvclass" Type="LVClass" URL="../TX PDO Mapping/TPDO Mapping.lvclass"/>
+	</Item>
+	<Item Name="Response Matcher" Type="Folder">
+		<Item Name="IMatch Response.lvclass" Type="LVClass" URL="../Response Matcher/IResponse/IMatch Response.lvclass"/>
+		<Item Name="Response Matcher.lvclass" Type="LVClass" URL="../Response Matcher/Response Matcher/Response Matcher.lvclass"/>
 	</Item>
 	<Item Name="SDO Manager" Type="Folder">
 		<Item Name="SDO Manager.lvlib" Type="Library" URL="../SDO Manager/SDO Manager.lvlib"/>

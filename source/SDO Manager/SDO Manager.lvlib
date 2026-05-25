@@ -21,8 +21,7 @@
 		<Item Name="Segmented Upload Transfer.lvclass" Type="LVClass" URL="../SDO Manager/Segmented Upload Transfer/Segmented Upload Transfer.lvclass"/>
 		<Item Name="Upload Transfer.lvclass" Type="LVClass" URL="../SDO Manager/Upload Transfer/Upload Transfer.lvclass"/>
 	</Item>
-	<Item Name="Response Matcher.lvclass" Type="LVClass" URL="../SDO Manager/Response Matcher/Response Matcher.lvclass"/>
 	<Item Name="SDO Manager.lvclass" Type="LVClass" URL="../SDO Manager/SDO Manager/SDO Manager.lvclass"/>
 	<Item Name="Segmented Download Transfer.lvclass" Type="LVClass" URL="../SDO Manager/Segmented Download Transfer/Segmented Download Transfer.lvclass"/>
-	<Item Name="Transfer Beginner.lvlib" Type="Library" URL="../../SDO/Transfer Beginner/Transfer Beginner.lvlib"/>
+	<Item Name="Transfer Beginner.lvlib" Type="Library" URL="../SDO Manager/Transfer Beginner.lvlib"/>
 </Library>
