@@ -30,7 +30,7 @@
 		<Item Name="TPDO Mapping.lvclass" Type="LVClass" URL="../TX PDO Mapping/TPDO Mapping.lvclass"/>
 	</Item>
 	<Item Name="SDO Manager" Type="Folder">
-		<Item Name="SDO Manager.lvlib" Type="Library" URL="../SDO/SDO Manager/SDO Manager.lvlib"/>
+		<Item Name="SDO Manager.lvlib" Type="Library" URL="../SDO Manager/SDO Manager.lvlib"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Access PDO.ctl" Type="VI" URL="../Typedefs/Access PDO.ctl"/>
