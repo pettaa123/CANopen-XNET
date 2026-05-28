@@ -32,10 +32,6 @@
 		<Item Name="RPDO Mapping.lvclass" Type="LVClass" URL="../RX PDO Mapping/RPDO Mapping.lvclass"/>
 		<Item Name="TPDO Mapping.lvclass" Type="LVClass" URL="../TX PDO Mapping/TPDO Mapping.lvclass"/>
 	</Item>
-	<Item Name="Response Matcher" Type="Folder">
-		<Item Name="IMatch Response.lvclass" Type="LVClass" URL="../Response Matcher/IResponse/IMatch Response.lvclass"/>
-		<Item Name="Response Matcher.lvlib" Type="Library" URL="../Response Matcher/Response Matcher.lvlib"/>
-	</Item>
 	<Item Name="SDO Manager" Type="Folder">
 		<Item Name="SDO Manager.lvlib" Type="Library" URL="../SDO Manager/SDO Manager.lvlib"/>
 	</Item>

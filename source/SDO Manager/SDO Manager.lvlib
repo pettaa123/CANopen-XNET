@@ -12,7 +12,7 @@
 	<Item Name="SDO Transfers" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Block" Type="Folder">
-			<Item Name="Block Upload End Transfer.lvclass" Type="LVClass" URL="../SDO Manager/SDO Manager/Block Upload End Transfer/Block Upload End Transfer.lvclass"/>
+			<Item Name="Block Upload End Transfer.lvclass" Type="LVClass" URL="../SDO Manager/Block Upload End Transfer/Block Upload End Transfer.lvclass"/>
 			<Item Name="Block Upload Initiate Transfer.lvclass" Type="LVClass" URL="../SDO Manager/Block Upload Initiate Transfer/Block Upload Initiate Transfer.lvclass"/>
 			<Item Name="Block Upload Sub-Block Transfer.lvclass" Type="LVClass" URL="../SDO Manager/Block Upload Sub-Block Transfer/Block Upload Sub-Block Transfer.lvclass"/>
 		</Item>
@@ -23,5 +23,4 @@
 		<Item Name="Segmented Download Transfer.lvclass" Type="LVClass" URL="../SDO Manager/Segmented Download Transfer/Segmented Download Transfer.lvclass"/>
 	</Item>
 	<Item Name="SDO Manager.lvclass" Type="LVClass" URL="../SDO Manager/SDO Manager/SDO Manager.lvclass"/>
-	<Item Name="Transfer Beginner.lvlib" Type="Library" URL="../SDO Manager/Transfer Beginner.lvlib"/>
 </Library>

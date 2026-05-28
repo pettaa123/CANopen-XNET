@@ -9,5 +9,5 @@
 
 </Property>
 	<Item Name="Network Management.lvclass" Type="LVClass" URL="../Network Management/Network Management.lvclass"/>
-	<Item Name="Node Guard.lvlib" Type="Library" URL="../Node Guard/Node Guard.lvlib"/>
+	<Item Name="Node Guard.lvlib" Type="Library" URL="../Node Guard.lvlib"/>
 </Library>

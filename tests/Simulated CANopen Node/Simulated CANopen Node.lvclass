@@ -86,7 +86,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1082667520</Property>
 	</Item>
 	<Item Name="Receive Messages Blocking.vi" Type="VI" URL="../Receive Messages Blocking.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'E!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#62J&lt;76E)'^V&gt;!!G1(!!(A!!%B"*476T=W&amp;H:3ZM&gt;G.M98.T!!!)35VF=X.B:W5!!":!1!!"`````Q!&amp;#5F.:8.T97&gt;F=Q"'1(!!(A!!)"Z4;7VV&lt;'&amp;U:71A1U&amp;/&lt;X"F&lt;C"/&lt;W2F,GRW9WRB=X-!!"J4;7VV&lt;'&amp;U:71A1U&amp;/&lt;X"F&lt;C"/&lt;W2F)'^V&gt;!!!"!!!!":!5!!$!!!!!1!##'6S=G^S)'FO!!!.1!-!"V2J&lt;76P&gt;81!%%!Q`````Q:4:7ZE:8)!!%2!=!!?!!!A(F.J&lt;86M982F:#"$15ZP='6O)%ZP:'5O&lt;(:D&lt;'&amp;T=Q!!'6.J&lt;86M982F:#"$15ZP='6O)%ZP:'5A;7Y!6!$Q!!Q!!Q!%!!9!"Q!)!!A!#!!)!!E!#A!,!!Q$!!"Y!!!.#!!!#1!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!)!!!##!!!!*!!!!!!!1!.!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'E!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#62J&lt;76E)'^V&gt;!!G1(!!(A!!%B"*476T=W&amp;H:3ZM&gt;G.M98.T!!!)35VF=X.B:W5!!":!1!!"`````Q!&amp;#5F.:8.T97&gt;F=Q"'1(!!(A!!)"Z4;7VV&lt;'&amp;U:71A1U&amp;/&lt;X"F&lt;C"/&lt;W2F,GRW9WRB=X-!!"J4;7VV&lt;'&amp;U:71A1U&amp;/&lt;X"F&lt;C"/&lt;W2F)'^V&gt;!!!"!!!!":!5!!$!!!!!1!##'6S=G^S)'FO!!!.1!-!"V2J&lt;76P&gt;81!%%!Q`````Q:4:7ZE:8)!!%2!=!!?!!!A(F.J&lt;86M982F:#"$15ZP='6O)%ZP:'5O&lt;(:D&lt;'&amp;T=Q!!'6.J&lt;86M982F:#"$15ZP='6O)%ZP:'5A;7Y!6!$Q!!Q!!Q!%!!9!"Q!)!!A!#!!)!!E!#A!,!!Q$!!"Y!!!.#!!!#1!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!+!!!##!!!!*!!!!!!!1!.!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
@@ -97,10 +97,10 @@
 	<Item Name="Send Message Immediate.vi" Type="VI" URL="../Send Message Immediate.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;D!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!A(F.J&lt;86M982F:#"$15ZP='6O)%ZP:'5O&lt;(:D&lt;'&amp;T=Q!!'F.J&lt;86M982F:#"$15ZP='6O)%ZP:'5A&lt;X6U!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!*E"Q!"Y!!")135VF=X.B:W5O&lt;(:D&lt;'&amp;T=Q!!#%F.:8.T97&gt;F!!"%1(!!(A!!)"Z4;7VV&lt;'&amp;U:71A1U&amp;/&lt;X"F&lt;C"/&lt;W2F,GRW9WRB=X-!!"F4;7VV&lt;'&amp;U:71A1U&amp;/&lt;X"F&lt;C"/&lt;W2F)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!I!!!#1!!!!!!%!#1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741826</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082667520</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 	</Item>
 </LVClass>
